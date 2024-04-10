@@ -53,7 +53,7 @@ A collection of easy-to-digest code examples for Lightning Web Components. Each 
 1. Create a scratch org and provide it with an alias (**lwc-recipes** in the command below):
 
     ```
-    sf org create scratch -d -f config/project-scratch-def.json -a lwc-recipes
+    sf org create scratch -d -f config/project-scratch-def.json -a lwc-recipes -y 30
     ```
 
 1. Push the app to your scratch org:
